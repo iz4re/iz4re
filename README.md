@@ -1,5 +1,4 @@
-## kepo banget si gaes hehe👋
-akun alt ytta aja
+# HAI
 
 <!--
 **iz4re/iz4re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
